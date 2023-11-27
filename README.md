@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm test
+### `npm tes
 
 
 Launches the test runner in the interactive watch mode.\
