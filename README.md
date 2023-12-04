@@ -22,7 +22,7 @@ Your app is ready to be deployed
 
 ### `npm run eject`
 
-*Note: this is a one-way operation. Once you `eject`, you can't go back!*
+*Note: this is a one-way operation. Once you `eject`, you can't g
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
