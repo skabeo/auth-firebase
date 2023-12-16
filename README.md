@@ -18,7 +18,7 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the bu
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed
+Your app is ready to be deploye
 
 ### `npm run eject`
 
